@@ -9,6 +9,7 @@ This repository contains the source code for a voice-based drive-thru kiosk syst
 ## 🧑‍💻 Created by
 
 **Christian Robin Kieswanto - 2540128474**
+
 **Kelvin Julius Hartono - 2501988945**
  
 Computer Engineering, Binus University  
